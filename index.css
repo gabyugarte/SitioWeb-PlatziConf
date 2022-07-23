@@ -18,6 +18,13 @@
 #footer a {
     color: white
 }
+#footer a:hover{
+    text-decoration: underline white;
+}
+a{
+    text-decoration: none;
+    background-color: transparent;
+}
 #header img{
     width:80px;
 }
